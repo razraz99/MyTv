@@ -1,1 +1,1 @@
-MyMYRAZ
+MYRAZ
